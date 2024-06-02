@@ -9,7 +9,7 @@
   <img src="https://telegra.ph/file/507f06908daf43adf4bde.jpg">
 <h1 align="center">sᴀɪғ-ʙᴀɴᴀʟʟ ʙᴏᴛ ❣️</h1>
 
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/SAIFDEAD/BAN-ALL"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="50.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/INNOCENTBOY2926/BAN-ALL"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="50.45"/></a></p>
 
 
 ## 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 / 𝑪𝒉𝒂𝒏𝒏𝒆𝒍
