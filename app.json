@@ -1,7 +1,7 @@
 {
    "name": "BANALL-BOT",
    "description": "TELEGRAM BOT",
-   "repository": "https://github.com/SAIFDEAD/BAN-ALL",
+   "repository": "https://github.com/INNOCENTBOY2926/BAN-ALL",
    "logo": "https://graph.org/file/507f06908daf43adf4bde.jpg",
    "image": "heroku/pthon",
    "env": {
